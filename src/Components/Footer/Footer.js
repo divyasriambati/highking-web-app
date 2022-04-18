@@ -3,7 +3,8 @@ import './Footer.css';
 import logo from '../../assets/icons/logo.svg';
 import facebook from '../../assets/icons/facebook.svg';
 import instagram from '../../assets/icons/insta.svg';
-import twitter from '../../assets/icons/twitter.svg'
+import twitter from '../../assets/icons/twitter.svg';
+import email from '../../assets/icons/mail.svg'
 
 export default class Footer extends Component {
     render() {
@@ -18,7 +19,10 @@ export default class Footer extends Component {
                             We have hiking-related blog so we can share our thought and rutinity<br></br> in our blog that updated weekly. We will not spam you, we promise.
                         </div>
                         <div className='footer-input-container'>
-                            <input className='footer-input' placeholder='Enter your e-mail address' ></input>
+                            <div className='footer-input'>
+                                <img src={email}></img>
+                                <input  placeholder='Enter your e-mail address' ></input>
+                            </div>
                             <button className='footer-subscribe-button'>Subscribe</button>
                         </div>
                     </div>

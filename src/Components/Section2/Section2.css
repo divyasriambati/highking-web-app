@@ -3,8 +3,7 @@
     flex-direction: row;
     justify-content: space-between;
     width: 60%;
-    background-color: white;
-    box-shadow: 10px rgb(180, 178, 178);
+    background-color: #FBFEFF;
     margin: 10% 20% 3% 20%;
 }
 .section2-card{
