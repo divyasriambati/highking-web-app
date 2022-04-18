@@ -1,0 +1,33 @@
+.section4-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5% 0%;
+}
+.section4-header-content{
+    color: #3E82FC;
+    font-size: 20px;
+    font-family: poppins;
+    font-weight: 400;
+}
+.section4-heading{
+    color: black;
+    font-size: 40px;
+    font-family: poppins;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.section4-testimonials-container{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+.section4-testimonials{
+    width: auto;
+    height: auto;
+    margin: 50px;
+}
