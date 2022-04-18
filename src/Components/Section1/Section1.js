@@ -6,6 +6,7 @@ import Navbar from '../Navbar/Navbar';
 export default class Section1 extends Component {
     render() {
         return (
+            <div>
             <div className='section1-bg'>
                 <div>
                     <Navbar/>
@@ -25,6 +26,9 @@ export default class Section1 extends Component {
                     </div>
 
                 </div>
+            </div>
+
+            
             </div>
         )
     }

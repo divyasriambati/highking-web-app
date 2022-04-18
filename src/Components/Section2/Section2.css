@@ -1,0 +1,50 @@
+.section2-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+    background-color: white;
+    box-shadow: 10px rgb(180, 178, 178);
+    margin: 10% 20% 3% 20%;
+}
+.section2-card{
+    width: 25%;
+}
+.section2-card-heading{
+    font-size: 24px;
+    color: black;
+    font-family: poppins;
+    font-weight: 600;
+}
+
+.section2-card-content{
+    font-size: 18px;
+    color: #5D616F;
+    font-family: poppins;
+    font-weight: 300;
+    margin: 10px 0px;
+
+}
+
+.section2-card-readmore{
+    font-size: 18px;
+    color: red;
+    font-family: poppins;
+    font-weight: 300;
+}
+
+.section2-footer{
+    color: #5D616F;
+    font-size: 18px;
+    font-family: poppins;
+    font-weight: 400;
+    text-align: center;
+    margin:5% 0%;
+}
+.section2-footer-link{
+    color: red;
+    font-size: 18px;
+    font-family: poppins;
+    font-weight: 500;
+    font-style: italic;
+}

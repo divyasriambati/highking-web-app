@@ -3,8 +3,9 @@
     flex-direction: row;
     justify-content: space-between;
     align-self: center;
-    width: 80%;
-    padding: 3% 10% 0% 10%;
+    width: 60%;
+    margin: 0% 20%;
+    padding-top: 3%;
 }
 
 .navbar-logo{
