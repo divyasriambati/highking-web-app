@@ -33,16 +33,16 @@
 
 
 .section7-slider-outer {
-    margin-left: 0px;
+    margin-left: 30px;
     width: 700px !important;
-    height: 394px;
+    height: 380px;
     left: calc(50% - 726px/2);
     top: calc(50% - 394px/2 + 38px);
 
     /* White */
 
     background: #FFFFFF;
-    box-shadow: 20px 20px 20px 0px rgba(171, 203, 240, 0.04); 
+    box-shadow: 0px 4px 60px rgba(210, 223, 247, 0.35);
     border-radius: 140px 0px;
 
 
