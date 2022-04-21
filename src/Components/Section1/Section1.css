@@ -1,6 +1,6 @@
 .section1-bg{
     background: url('../../assets/images/be\ prepared\ bg.png') no-repeat;
-    background-size: 100% 180%;
+    background-size: 100% 100%;
 }
 .section1-container{
     width: auto;
@@ -61,5 +61,5 @@ button{
     border: none;
 }
 .section1-image img{
-    margin-bottom: -250px;
+    margin-bottom: -200px;
 }

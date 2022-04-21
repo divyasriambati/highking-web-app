@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Section1.css';
+import Section2 from '../Section2/Section2';
 import section1_image from '../../assets/images/be\ prepared\ image.png'
 import Navbar from '../Navbar/Navbar';
 
@@ -26,6 +27,11 @@ export default class Section1 extends Component {
                     </div>
 
                 </div>
+                <div>
+                    <Section2 />
+                </div>
+
+
             </div>
 
             
